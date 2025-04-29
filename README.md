@@ -1,6 +1,7 @@
 # C-Nuker-PT-BR-
 Just a fork
 # Como usar?
+* Baixe o arquivo de releases depois siga as etapas abaixo.
 Primeiro, crie um bot em [Portal de desenvolvedor do discord](https://discord.com/developer/applications), Veja um tutorial de como configurar um bot primeiro tambem!
 Assim que você configurar tudo, aperte em "Resetar token ou pegar token"
 Copie esse token e cole no app
