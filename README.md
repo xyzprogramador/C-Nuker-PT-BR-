@@ -1,4 +1,4 @@
-# C-Nuker-PT-BR-
+# PyNuker
 Just a fork
 # Como usar?
 * Baixe o arquivo de releases depois siga as etapas abaixo.<br><br>
